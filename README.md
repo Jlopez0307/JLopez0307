@@ -6,7 +6,7 @@ Hey, I'm currently a student at the UMass Software Enginnering Bootcamp. I haven
 
 🎒🎓Always learning new things and excited to learn more!
 
-Javascript || JQuery 
+Javascript || JQuery || React || Express.js || Node.js || Python || Flask || PostgreSQL
 
 Currently working on bootcamp curriculum and learning full stack development.
 
