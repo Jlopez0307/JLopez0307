@@ -2,7 +2,7 @@
 
 Hey, I'm currently a student at the UMass Software Enginnering Bootcamp. I haven't had any professional experience but trying to get there by doing as much as I can to prove I'm determined to get there!
 
-🎮Favorite games right now: Rocket League || Minecraft || The Witcher 3
+🎮Favorite games right now: Zelda || Minecraft || Cyberpunk 2077 || God of War
 
 🎒🎓Always learning new things and excited to learn more!
 
